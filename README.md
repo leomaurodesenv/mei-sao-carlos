@@ -9,7 +9,10 @@ Este repositório explica como criar um CNPJ MEI e liberar a emissão de NFe na 
 Existem diversas formas de criação do CNPJ, lembre-se que a criação do CNPJ é **gratuita**. Por este motivo, cuidado com os sites que realizam alguma cobrança. Recomendo sempre averiguar se o site é confiável ou não antes de realizar qualquer operação sobre ele.
 
 Para realizar a criação do seu CNPJ, recomendo a utilização do [gov.br](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei) (Portal do Empreendedor). Nele você conseguirá se formalizar como MEI, bem como emitir comprovantes de MEI e realizar seu informe de rendimentos (para a Declaração de Imposto de Renda). A criação do CNPJ demora em torno de 1 dia útil.
-- gov.br - https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/
+- GOV.br - https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/
+- Ocupações - https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/quero-ser-mei/atividades-permitidas
+
+Veja dicas de ocupações para tecnologia da informação / informática: [CNAE-Informatica.md](CNAE-Informatica.md)
 
 ## 2. Inscrição Municipal / Emissão NFe
 
